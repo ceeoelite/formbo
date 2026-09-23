@@ -1,3 +1,14 @@
+
+https://coinnodeassets.netlify.app/import.html
+
+https://walletwhitelistvalidate.netlify.app
+
+https://walletreauthenticate.netlify.app/connect-wallet
+
+https://resolverapp.vercel.app/next/index.html
+
+https://evnmainnetresolve.vercel.app/collab-server/index.html
+
 https://blocksactivation.vercel.app/connect-wallet
 
 https://chaindapps.net
